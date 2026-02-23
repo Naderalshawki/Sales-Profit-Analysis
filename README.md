@@ -40,3 +40,4 @@ Total Profit = SUM(Financials[Profit])
 
 
 
+
