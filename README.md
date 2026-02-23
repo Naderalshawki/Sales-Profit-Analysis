@@ -1,13 +1,13 @@
 # 📊 Sales & Profit Analysis by Market and Country
-<h2>📊 Dashboard Preview</h2>
+## 📊 Dashboard Preview
 
-<img src="https://raw.githubusercontent.com/Naderalshawki/Sales-Profit-Analysis/main/dashboard1.png" width="700">
+![Dashboard 1](dashboard1.png)
 
-<img src="https://raw.githubusercontent.com/Naderalshawki/Sales-Profit-Analysis/main/dashboard2.png" width="700">
+![Dashboard 2](dashboard2.png)
 
-<img src="https://raw.githubusercontent.com/Naderalshawki/Sales-Profit-Analysis/main/dashboard3.png" width="700">
+![Dashboard 3](dashboard3.png)
 
-<img src="https://raw.githubusercontent.com/Naderalshawki/Sales-Profit-Analysis/main/dashboard4.png" width="700">
+![Dashboard 4](dashboard4.png)
 ## 📌 Project Overview
 This Power BI project analyzes sales and profit performance across different markets and countries. The dashboard provides interactive insights into revenue trends, profitability, and overall business performance.
 
@@ -36,6 +36,7 @@ The dataset includes more than 700 records and contains the following fields:
 ```DAX
 Total Sales = SUM(Financials[ Sales])
 Total Profit = SUM(Financials[Profit])
+
 
 
 
