@@ -1,5 +1,5 @@
 # 📊 Sales & Profit Analysis by Market and Country
-#### 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Dashboard 1](dashboard1.png)
 
@@ -36,6 +36,7 @@ The dataset includes more than 700 records and contains the following fields:
 ```DAX
 Total Sales = SUM(Financials[ Sales])
 Total Profit = SUM(Financials[Profit])
+
 
 
 
