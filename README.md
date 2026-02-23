@@ -1,10 +1,10 @@
 # 📊 Sales & Profit Analysis by Market and Country
 ## 📊 Dashboard Preview
 
-![Dashboard 1](Dashboard/new1.png)
-![Dashboard 2](Dashboard/new2.png)
-![Dashboard 3](Dashboard/new3.png)
-![Dashboard 4](Dashboard/new4.png)
+![Dashboard 1](Temp/new1.png)
+![Dashboard 2](Temp/new2.png)
+![Dashboard 3](Temp/new3.png)
+![Dashboard 4](Temp/new4.png)
 ## 📌 Project Overview
 This Power BI project analyzes sales and profit performance across different markets and countries. The dashboard provides interactive insights into revenue trends, profitability, and overall business performance.
 
@@ -33,6 +33,7 @@ The dataset includes more than 700 records and contains the following fields:
 ```DAX
 Total Sales = SUM(Financials[ Sales])
 Total Profit = SUM(Financials[Profit])
+
 
 
 
